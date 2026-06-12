@@ -49,7 +49,7 @@ It's been a great exercise in thinking beyond the happy path — handling edge c
 
 ---
 
-📌 **Portfolio:** [angelikakedzierska.website](https://angelikakedzierska.website)  
+📌 **Portfolio:** [angelikakedzierska.pl(https://angelikakedzierska.pl)  
 📌 **LinkedIn:** [/in/angelika-kędzierska](https://www.linkedin.com/in/angelika-k%C4%99dzierska-61475a21b/)
 
 ---
@@ -100,7 +100,7 @@ To dobra lekcja myślenia poza happy path — obsługa edge case'ów, walidacja 
 
 ---
 
-📌 **Portfolio:** [angelikakedzierska.website](https://angelikakedzierska.website)  
+📌 **Portfolio:** [angelikakedzierska.pl](https://angelikakedzierska.pl)  
 📌 **LinkedIn:** [/in/angelika-kędzierska](https://www.linkedin.com/in/angelika-k%C4%99dzierska-61475a21b/)
 
 ---
