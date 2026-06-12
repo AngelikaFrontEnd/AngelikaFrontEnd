@@ -34,6 +34,7 @@ Webhook (form submit) → Python script (calculations + HTML generation) → PDF
 ```
 
 ![HR ROI Calculator — work in progress](hr_calc.png)
+![Zapier — work in progress](zapier.jpg)
 
 It's been a great exercise in thinking beyond the happy path — handling edge cases, validating inputs, making sure the email actually lands. Should be production-ready in about a month.
 
@@ -85,7 +86,7 @@ Webhook (submit formularza) → skrypt Python (obliczenia + generowanie HTML) �
 ```
 
 ![Kalkulator HR ROI — w trakcie budowy](hr_calc.png)
-![Zapier Automatyzacja — w trakcie budowy](zapier)
+![Zapier Automatyzacja — w trakcie budowy](zapier.jpg)
 
 To dobra lekcja myślenia poza happy path — obsługa edge case'ów, walidacja danych, upewnienie się, że email faktycznie trafia do skrzynki. Powinno być gotowe do produkcji za mniej więcej miesiąc.
 
