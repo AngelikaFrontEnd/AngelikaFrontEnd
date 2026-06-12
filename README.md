@@ -33,7 +33,7 @@ The pipeline I'm building and testing:
 Webhook (form submit) → Python script (calculations + HTML generation) → PDF.co (HTML→PDF) → Email delivery
 ```
 
-![HR ROI Calculator — work in progress](hr-roi-calculator.png)
+![HR ROI Calculator — work in progress](hr_calc.png)
 
 It's been a great exercise in thinking beyond the happy path — handling edge cases, validating inputs, making sure the email actually lands. Should be production-ready in about a month.
 
@@ -84,7 +84,8 @@ Pipeline, który buduję i testuję:
 Webhook (submit formularza) → skrypt Python (obliczenia + generowanie HTML) → PDF.co (HTML→PDF) → wysyłka emaila
 ```
 
-![Kalkulator HR ROI — w trakcie budowy](hr-roi-calculator.png)
+![Kalkulator HR ROI — w trakcie budowy](hr_calc.png)
+![Zapier Automatyzacja — w trakcie budowy](zapier)
 
 To dobra lekcja myślenia poza happy path — obsługa edge case'ów, walidacja danych, upewnienie się, że email faktycznie trafia do skrzynki. Powinno być gotowe do produkcji za mniej więcej miesiąc.
 
