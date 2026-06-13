@@ -1,9 +1,17 @@
+<!-- Wklej ten plik do repo: AngelikaFrontEnd/AngelikaFrontEnd/README.md -->
+<!-- Wgraj też pliki hr_calc.png i zapier.jpg do tego samego repo -->
+
 <h1 align="center">Angelika Kędzierska</h1>
 <h3 align="center">CRM & Email Marketing Specialist · Salesforce Certified · Webmaster @ WEBCON</h3>
 
-<br/>
+<p align="center">
+  <a href="#english-version">🇬🇧 English</a> &nbsp;·&nbsp;
+  <a href="#wersja-polska">🇵🇱 Polski</a>
+</p>
 
-## 🇬🇧 English
+---
+
+## 🇬🇧 English <a name="english-version"></a>
 
 I'm a Salesforce-certified email marketing specialist with 4 years of hands-on production experience, currently working as a Webmaster at WEBCON — a Polish low-code BPM platform company.
 
@@ -50,12 +58,12 @@ It's been a great exercise in thinking beyond the happy path — handling edge c
 
 ---
 
-📌 **Portfolio:** [angelikakedzierska.pl(https://angelikakedzierska.pl)  
+📌 **Portfolio:** [angelikakedzierska.pl](https://angelikakedzierska.pl)  
 📌 **LinkedIn:** [/in/angelika-kędzierska](https://www.linkedin.com/in/angelika-k%C4%99dzierska-61475a21b/)
 
 ---
 
-## 🇵🇱 Polski
+## 🇵🇱 Polski <a name="wersja-polska"></a>
 
 Jestem certyfikowaną specjalistką Salesforce Marketing Cloud z 4-letnim doświadczeniem produkcyjnym, obecnie pracującą jako Webmaster w WEBCON — polskiej firmie tworzącej platformę low-code BPM.
 
